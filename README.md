@@ -1,4 +1,5 @@
 **QA Portfolio — Maryna**
+
 Manual QA Engineer focusing on web testing, UI/UX issues, and clear, structured test documentation.
 
 Skills
